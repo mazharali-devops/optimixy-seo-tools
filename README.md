@@ -1,3 +1,5 @@
+[![Optimixy](https://optimixy.com/static/images/seo-checker-og.jpg)](https://optimixy.com)
+
 # Optimixy
 
 Free SEO tools and practical guides to help you analyze, fix, and improve your website.
