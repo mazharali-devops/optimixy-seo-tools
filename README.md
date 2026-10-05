@@ -105,7 +105,7 @@ A good first run for a new site:
 
 Found a bug, a wrong result, or a tool you'd like to see? Feedback is welcome.
 
-- **Report a bug or request a feature:** [open an issue](https://github.com/pyfuncode/optimixy-seo-tools/issues)
+- **Report a bug or request a feature:** [open an issue](https://github.com/mazharali-devops/optimixy-seo-tools/issues)
 - **Contact the team:** [optimixy.com/contact](https://optimixy.com/contact)
 - **Questions about the tools:** see the [FAQ](https://optimixy.com/faq)
 
